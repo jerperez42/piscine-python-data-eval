@@ -1,4 +1,4 @@
-NAME=piscine-python-0
+NAME=piscine-python-eval
 
 all:
 	docker build --no-cache -t ${NAME} .
